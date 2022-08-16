@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this tool in your work, please cite it as below."
+authors:
+- family-names: "Miranda"
+  given-names: "Charles"
+  orcid: "https://orcid.org/0000-0001-5455-4437"
+  email: charlesmiranda@ufpi.edu.br
+  affiliation: Federal University of Piaui (UFPI)
+- family-names: "Avelino"
+  given-names: "Guilherme"
+  orcid: "https://orcid.org/0000-0002-8203-0638"
+  email: gaa@ufpi.edu.br
+  affiliation: Federal University of Piaui (UFPI)
+title: "test-code-classification"
+version: 1.0.0
+doi: https://doi.org/10.5753/vem.2021.17215
+date-released: 2021-09-27
+url: "https://github.com/SERG-UFPI/test-code-classification"
+keywords: 
+  - Co-evolution
+  - testing
+  - software repository mining
+  - GitHub
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Miranda"
+    given-names: "Charles"
+    orcid: "https://orcid.org/0000-0001-5455-4437"
+    email: charlesmiranda@ufpi.edu.br
+    affiliation: Federal University of Piaui (UFPI)
+  - family-names: "Avelino"
+    given-names: "Guilherme"
+    orcid: "https://orcid.org/0000-0002-8203-0638"
+    email: gaa@ufpi.edu.br
+    affiliation: Federal University of Piaui (UFPI)
+  - family-names: "Santos Neto"
+    given-names: "Pedro"
+    orcid: "https://orcid.org/0000-0002-1554-8445"
+    email: pasn@ufpi.edu.br
+    affiliation: Federal University of Piaui (UFPI)
+  - family-names: "da Silva"
+    given-names: "Victor"
+    email: victor.silva@ufpi.edu.br
+    affiliation: Federal University of Piaui (UFPI)
+  doi: "10.5753/vem.2021.17215"
+  title: "Uma Análise da Co-Evolução de Teste em Projetos de Software no GitHub"
+  year: 2021
